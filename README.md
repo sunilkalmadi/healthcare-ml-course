@@ -4,17 +4,11 @@ Concepts, pitfalls, and practical decisions in healthcare machine learning.
 
 ## Overview
 
-This repository contains a short, concept-driven course on machine learning in healthcare research, with examples grounded in perinatal research using synthetic but clinically inspired data.
+This repository contains a short, concept-driven course on machine learning in healthcare research, with examples grounded in perinatal research using synthetic but clinically inspired data. Using interactive experiments with synthetic perinatal datasets, learners investigate how models behave under realistic conditions such as small sample size, class imbalance, proxy correlations, data leakage, missing data, subgroup imbalance, and distribution shift.
 
-The course is delivered through self-contained, Google Colab–ready notebooks that emphasize intuition, practical evaluation, and critical thinking rather than exhaustive coverage of algorithms.
+The course is delivered through self-contained, illustrated, Google Colab–ready notebooks that emphasize intuition, practical evaluation, and critical thinking rather than exhaustive coverage of algorithms.
 
-The notebooks explore:
 
-prediction vs explanation,
-generalization and failure modes,
-bias, interpretation, and trust in healthcare ML.
-
-Using interactive experiments with synthetic perinatal datasets, learners investigate how models behave under realistic conditions such as small sample size, class imbalance, proxy correlations, data leakage, missing data, subgroup imbalance, and distribution shift.
 
 ## Open in Colab
 
@@ -34,6 +28,10 @@ Using interactive experiments with synthetic perinatal datasets, learners invest
 
 3. **Trust, Bias, and Interpretation**  
    Examines subgroup performance, thresholds, calibration, and interpretation limits in healthcare ML.
+
+<p align="center">
+  <img src="figures/course_intro.jpg" alt="Healthcare ML Course Overview" width="100%">
+</p>
 
 ## Audience
 
@@ -63,13 +61,10 @@ healthcare-ml-course/
 
 Sunil Kalmady Vasu, PhD  
 Adjunct Professor, Computing Science  
-University of Alberta  
+University of Alberta, Edmonton, Canada  
 kalmady@ualberta.ca
 
 ## Citation
 
 If you use or adapt these materials, please cite this repository using the metadata in `CITATION.cff`.
 
-## License
-
-This project is licensed under the MIT License. See `LICENSE` for details.
