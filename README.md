@@ -35,7 +35,7 @@ The course is delivered through self-contained, illustrated, Google Colab–read
 
 ## Audience
 
-This course is designed for clinicians, researchers, trainees, and health data science learners who want to critically evaluate machine learning applications in healthcare. No advanced machine learning background is assumed.
+This course is designed for clinicians, researchers, trainees, and health data science learners who want to critically design, evaluate, and interpret machine learning applications in healthcare. No advanced machine learning background is assumed.
 
 ## Synthetic Data Note
 
