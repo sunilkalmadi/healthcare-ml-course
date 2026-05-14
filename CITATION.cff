@@ -1,10 +1,10 @@
 cff-version: 1.2.0
 message: "If you use or adapt these course materials, please cite this repository."
-title: "Applications of Machine Learning in Healthcare Research"
-abstract: "Concepts, pitfalls, and practical decisions for perinatal research."
+title: "Practical Machine Learning for Healthcare Research"
+abstract: "Core concepts, common pitfalls, and practical decision-making in healthcare machine learning through hands-on demonstrations using a synthetic perinatal data generator"
 authors:
-  - family-names: "Vasu"
-    given-names: "Sunil Kalmady"
+  - family-names: "Kalmady"
+    given-names: "Sunil V"
     email: "kalmady@ualberta.ca"
     affiliation: "University of Alberta"
 date-released: "2026-05-14"
