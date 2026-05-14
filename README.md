@@ -1,12 +1,20 @@
-# Applications of Machine Learning in Healthcare Research
+# Practical Machine Learning for Healthcare Research
 
-Concepts, pitfalls, and practical decisions for perinatal research.
+Concepts, pitfalls, and practical decisions in healthcare machine learning.
 
 ## Overview
 
-This repository contains a short, concept-driven course on machine learning in healthcare research, with examples grounded in perinatal research. The course uses self-contained Google Colab notebooks built around synthetic but clinically inspired data.
+This repository contains a short, concept-driven course on machine learning in healthcare research, with examples grounded in perinatal research using synthetic but clinically inspired data.
 
-The goal is not to teach a catalog of algorithms. The goal is to help learners see how models behave, where they fail, and how evaluation choices affect clinical interpretation.
+The course is delivered through self-contained, Google Colab–ready notebooks that emphasize intuition, practical evaluation, and critical thinking rather than exhaustive coverage of algorithms.
+
+The notebooks explore:
+
+prediction vs explanation,
+generalization and failure modes,
+bias, interpretation, and trust in healthcare ML.
+
+Using interactive experiments with synthetic perinatal datasets, learners investigate how models behave under realistic conditions such as small sample size, class imbalance, proxy correlations, data leakage, missing data, subgroup imbalance, and distribution shift.
 
 ## Open in Colab
 
@@ -19,10 +27,10 @@ The goal is not to teach a catalog of algorithms. The goal is to help learners s
 ## Notebook Progression
 
 1. **Prediction vs Explanation**  
-   Compares predictive modeling goals with explanatory interpretation in a perinatal risk prediction setting.
+   Compares predictive modeling goals with explanatory interpretation in a clinical risk prediction setting.
 
 2. **Generalization and Failure Modes**  
-   Demonstrates how sample size, noise, imbalance, missingness, and distribution shift affect model behavior.
+   Demonstrates how sample size, noise, imbalance, data leakage, missingness, and distribution shift affect model behavior.
 
 3. **Trust, Bias, and Interpretation**  
    Examines subgroup performance, thresholds, calibration, and interpretation limits in healthcare ML.
