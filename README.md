@@ -12,9 +12,9 @@ The goal is not to teach a catalog of algorithms. The goal is to help learners s
 
 | Notebook | Topic | Colab |
 | --- | --- | --- |
-| 1 | Prediction vs explanation | [Open in Colab](https://colab.research.google.com/github/SunilKalmady/healthcare-ml-course/blob/main/notebooks/notebook_1_prediction_vs_explanation_colab.ipynb) |
-| 2 | Generalization and failure modes | [Open in Colab](https://colab.research.google.com/github/SunilKalmady/healthcare-ml-course/blob/main/notebooks/notebook_2_generalization_and_failure_modes_colab.ipynb) |
-| 3 | Trust, bias, and interpretation | [Open in Colab](https://colab.research.google.com/github/SunilKalmady/healthcare-ml-course/blob/main/notebooks/notebook_3_trust_bias_and_interpretation_colab.ipynb) |
+| 1 | Prediction vs explanation | [Open in Colab](https://colab.research.google.com/github/sunilkalmadi/healthcare-ml-course/blob/main/notebooks/notebook_1_prediction_vs_explanation_colab.ipynb) |
+| 2 | Generalization and failure modes | [Open in Colab](https://colab.research.google.com/github/sunilkalmadi/healthcare-ml-course/blob/main/notebooks/notebook_2_generalization_and_failure_modes_colab.ipynb) |
+| 3 | Trust, bias, and interpretation | [Open in Colab](https://colab.research.google.com/github/sunilkalmadi/healthcare-ml-course/blob/main/notebooks/notebook_3_trust_bias_and_interpretation_colab.ipynb) |
 
 ## Notebook Progression
 
