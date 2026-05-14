@@ -6,7 +6,7 @@ authors:
   - family-names: "Kalmady"
     given-names: "Sunil V"
     email: "kalmady@ualberta.ca"
-    affiliation: "University of Alberta"
+    affiliation: "University of Alberta, Edmonton, Canada"
 date-released: "2026-05-14"
 license: "MIT"
 repository-code: "https://github.com/sunilkalmadi/healthcare-ml-course"
@@ -16,3 +16,5 @@ keywords:
   - perinatal research
   - synthetic data
   - model evaluation
+  - trustworthy clinical ml
+  - clinical ml foundations
